@@ -1,0 +1,2 @@
+# Requirements for Article web scraper
+bs4
